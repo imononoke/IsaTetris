@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">IsaTetris</string>
+    <string name="body_label">label</string>
+    <string name="button_up">up</string>
+    <string name="button_left">left</string>
+    <string name="button_right">right</string>
+    <string name="button_down">down</string>
+    <string name="button_rotate">rotate</string>
 </resources>
